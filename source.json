@@ -9,6 +9,10 @@
       "developerName": "sekond",
       "localizedDescription": "Noomicheems for iOS.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "1.0",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/noomicheems/releases/download/1.0/noomicheems-ios.ipa",
+      "size": 51700000,
       "versions": [
         {
           "version": "1.0",
@@ -24,6 +28,10 @@
       "developerName": "sekond",
       "localizedDescription": "Geometry Dash iOS version 2.208.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "2.208",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/geometrydash/releases/download/1.0/geometrydash-2.028-ios.ipa",
+      "size": 139000000,
       "versions": [
         {
           "version": "2.208",
@@ -39,6 +47,10 @@
       "developerName": "sekond",
       "localizedDescription": "Minecraft iOS version 1.26.32.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "1.26.32",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/minecraft1.26.32/releases/download/1.0/minecraft.1.26.32.ipa",
+      "size": 656000000,
       "versions": [
         {
           "version": "1.26.32",
@@ -54,6 +66,10 @@
       "developerName": "sekond",
       "localizedDescription": "CapCut Beta for iOS.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "1.1",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/capcut-pro-beta/releases/download/1.1/CapCut.Beta.ipa",
+      "size": 140000000,
       "versions": [
         {
           "version": "1.1",
@@ -69,6 +85,10 @@
       "developerName": "sekond",
       "localizedDescription": "CapCut Beta 2 for iOS.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "1.1",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/capcut-pro-beta/releases/download/1.1/CapCut.Beta.2.ipa",
+      "size": 138000000,
       "versions": [
         {
           "version": "1.1",
@@ -84,6 +104,10 @@
       "developerName": "sekond",
       "localizedDescription": "Older Noomiclone iOS build.",
       "iconURL": "https://placehold.co/512x512.png",
+      "version": "1.0",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://github.com/sekondslair/noomiclone-old/releases/download/1.0/noomiclone_old.ipa",
+      "size": 44000000,
       "versions": [
         {
           "version": "1.0",
